@@ -7,7 +7,7 @@ import requests
 app = Flask(__name__)
 
 Url = "https://api.openweathermap.org/data/2.5/forecast?q="
-Api_key = "18d58793b3f9d20271d9845590ace306"
+Api_key = #Paste your api here
 
 
 
